@@ -1,0 +1,19 @@
+{
+  "name": "nodenew-02",
+  "version": "1.0.0",
+  "description": "This is day 02 of NodeJS",
+  "main": "Script.js",
+  "type": "module",
+  "scripts": {
+    "start": "node Script.js",
+    "dev":"nodemon Script.js"
+  },
+  "author": "Afreeth j",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7"
+  }
+}
